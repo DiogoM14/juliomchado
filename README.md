@@ -33,5 +33,8 @@ I'm a FullStack Developer :computer:
 
 :books: Always studying to improve my skills and make a better job.
 
+About me: I like technology :nerd_face:, games :video_game:, develop :computer:, netflix, converse....
 
-
+Contacts:
+<br/> :email: juliocarlos00@hotmail.com
+<br/>  
