@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Hello, Welcome my github profile👋 
 
 **My name is Julio Machado**
-I'm FullStack Developer :computer: 
+I'm a FullStack Developer :computer: 
 </br> I have been passionate about technology and problem solving using it since childhood. 
 
 > ### Some technologies in focus today
