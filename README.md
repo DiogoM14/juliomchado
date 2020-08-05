@@ -35,6 +35,6 @@ I'm a FullStack Developer :computer:
 
 About me: I like technology :nerd_face:, games :video_game:, develop :computer:, netflix, converse....
 
-Contacts:
-<br/> :email: juliocarlos00@hotmail.com
-<br/>  
+Contacts: 
+<br/> :email: juliocarlos00@hotmail.com 
+<br/> :computer: https://www.linkedin.com/in/julio-machado-3a7792190/
