@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 I'm a FullStack Developer :computer: 
 </br> I have been passionate about technology and problem solving using it since childhood. 
 
-### Some technologies in focus today:
+### Some technologies in focus now:
 * :heavy_check_mark: Javascript/Typescript
 * :heavy_check_mark: React
 * :heavy_check_mark: React Native
