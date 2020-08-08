@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 **My name is Julio Machado**
 I'm a FullStack Developer :computer: 
-</br> I have been passionate about technology and problem solving using it since childhood. 
+</br> I've been passionate about technology and problem solving since childhood. 
 
 ### Some technologies in focus now:
 * :heavy_check_mark: Javascript/Typescript
@@ -31,9 +31,9 @@ I'm a FullStack Developer :computer:
 * :heavy_check_mark: HTML
 * **And more others**
 
-:books: Always studying to improve my skills and make a better job.
+:books: Always studying to improve my skills and do a better job.
 
-About me: I like to technology :nerd_face:, games :video_game:, develop :computer:, netflix, converse....
+About me: I like technology :nerd_face:, games :video_game:, developing :computer:, netflix, talk...
 
 Contacts: 
 <br/> :email: juliocarlos00@hotmail.com 
