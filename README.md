@@ -39,7 +39,10 @@ Contacts:
 <br/> :email: juliocarlos00@hotmail.com 
 <br/> :computer: https://www.linkedin.com/in/julio-machado-3a7792190/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliomchado&layout=compact)](https://github.com/juliomchado/github-readme-stats) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juliomchado&show_icons=true&theme=default&include_all_commits=true&count_private=true)
 
+<p align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliomchado&layout=compact&border=none)](https://github.com/juliomchado/github-readme-stats) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juliomchado&show_icons=true&theme=default&include_all_commits=true&count_private=true&border=none)
+</p>
 
 
