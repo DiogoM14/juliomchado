@@ -37,7 +37,7 @@ About me: I like technology :nerd_face:, games :video_game:, developing :compute
 
 Contacts: 
 <br/> :email: juliocarlos00@hotmail.com 
-<br/> :computer: https://www.linkedin.com/in/julio-machado-3a7792190/
+<br/> :computer: https://www.linkedin.com/in/juliomchado/
 
 
 <p align="center">
