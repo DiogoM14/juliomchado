@@ -26,6 +26,7 @@ I'm a FullStack Developer :computer:
 * :heavy_check_mark: Javascript/Typescript
 * :heavy_check_mark: React
 * :heavy_check_mark: React Native
+* :heavy_check_mark: NextJS
 * :heavy_check_mark: Node
 * :heavy_check_mark: Css
 * :heavy_check_mark: HTML
